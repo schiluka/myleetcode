@@ -1,4 +1,4 @@
-package com.github.schiluka.myleetcode.myleetcode;
+package com.github.schiluka.myleetcode;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
